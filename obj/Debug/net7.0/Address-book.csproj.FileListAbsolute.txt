@@ -1,0 +1,15 @@
+/home/abdullah/Courses/Projects/C#/Address-book/bin/Debug/net7.0/Address-book
+/home/abdullah/Courses/Projects/C#/Address-book/bin/Debug/net7.0/Address-book.deps.json
+/home/abdullah/Courses/Projects/C#/Address-book/bin/Debug/net7.0/Address-book.runtimeconfig.json
+/home/abdullah/Courses/Projects/C#/Address-book/bin/Debug/net7.0/Address-book.dll
+/home/abdullah/Courses/Projects/C#/Address-book/bin/Debug/net7.0/Address-book.pdb
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.csproj.AssemblyReference.cache
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.AssemblyInfoInputs.cache
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.AssemblyInfo.cs
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.csproj.CoreCompileInputs.cache
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.dll
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/refint/Address-book.dll
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.pdb
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/Address-book.genruntimeconfig.cache
+/home/abdullah/Courses/Projects/C#/Address-book/obj/Debug/net7.0/ref/Address-book.dll

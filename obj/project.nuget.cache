@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ls7N6PStVc3yTcsZOwfCNEfhJax9Y8nfIprs320tzw53fjviT9itGkBI4Mo1KxGOuf6EyvnSAZ/i3jMsLhKTVQ==",
+  "success": true,
+  "projectFilePath": "/home/abdullah/Courses/Projects/C#/Address-book/Address-book.csproj",
+  "expectedPackageFiles": [
+    "/home/abdullah/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
