@@ -1,5 +1,5 @@
 # Addressbooks with C#
-Simple console-address book program using C#, from beginner developer
-<br>
+Program that allows users to store and manage contact information, including names, phone numbers, and email addresses
+ <br>
 **.NET version**: 7.0.111 <br>
 **C# version**: 11
